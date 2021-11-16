@@ -27,7 +27,7 @@ components:
   schemas:
     homepage:
       type: string
-      example: '<html><body><h1>This is my Home Page</h1></body></html>'
+      example: '<html><body><h1>This is my Updated Home Page</h1></body></html>'
   securitySchemes:
     BasicAuth:
       type: http
